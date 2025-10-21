@@ -15,8 +15,8 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
-### [SP 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)  
-### [SP 2. Preprocesamiento de datos: preparando la base del aprendizaje automático](unidad2/unidad2.md)  
+### [SP 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](sp1)  
+### [SP 2. Preprocesamiento de datos: preparando la base del aprendizaje automático](SP2/SP2.md) 
 ### [SP 3. Aprendizaje supervisado: modelos para análisis predictivo](unidad3/unidad3.md)  
 ### [SP 4. Aprendizaje no supervisado: modelos de agrupación y análisis de patrones](unidad4/unidad4.md)  
 ### [SP 5. Redes neuronales y modelos avanzados de aprendizaje automático](unidad5/unidad5.md)  
